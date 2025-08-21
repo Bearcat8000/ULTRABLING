@@ -1,4 +1,4 @@
 # ULTRABLING
-[google.com](url)
+[https://google.com](url)
 
 YAYYYYYY
